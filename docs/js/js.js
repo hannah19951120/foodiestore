@@ -222,7 +222,7 @@ $(document).ready(function() {
 
     function addList(num,i){
         var item = $('<li class="store__list">')
-        var imgurl = 'url(/img/store/'+num.eng+'.jpg)'
+        var imgurl = 'url(img/store/'+num.eng+'.jpg)'
         item.css('background-image',imgurl);
         if(num.fill==true){
             item.append("<div class='overray--full'>名額已滿</div>");

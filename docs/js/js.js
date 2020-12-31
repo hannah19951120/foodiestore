@@ -62,13 +62,13 @@ $(document).ready(function() {
             landing:'https://forms.gle/S4Yy1vi4ToFGaXK1A',
             fill:false,
         },{
-            name:"來搭伙吧",
+            name:"來搭伙吧 RENDEZVOUS BAR",
             eng:'rendezvous',
             location:'中山區',
             landing:'https://forms.gle/JHRGHsciMwxR4Yt86',
             fill:false,
         },{
-            name:"Oskafe coffee",
+            name:"Oskafe coffee wine sandwich",
             eng:'oskafecoffee',
             location:'中山區',
             landing:'https://forms.gle/HaDqaJQbAyNmt8C8A',
@@ -227,7 +227,7 @@ $(document).ready(function() {
         if(num.fill==true){
             item.append("<div class='overray--full'>名額已滿</div>");
         }else{
-            item.append('<a href="'+num.landing+'" class="link"></a>');
+            item.append('<a href="'+num.landing+'" class="link" target="_blank" ></a>');
         }
         item.append("<div class='overray'></div>");
         item.append("<h3>"+num.name+"</h3>");

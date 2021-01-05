@@ -66,7 +66,7 @@ $(document).ready(function() {
             eng:'rendezvous',
             location:'中山區',
             landing:'https://forms.gle/JHRGHsciMwxR4Yt86',
-            fill:false,
+            fill:true,
         },{
             name:"Oskafe coffee wine sandwich",
             eng:'oskafecoffee',
@@ -216,6 +216,30 @@ $(document).ready(function() {
             eng:'vegetarian',
             location:'松山區',
             landing:'https://forms.gle/yD8TSbRmELAzX9oF8',
+            fill:false,
+        },{
+            name:"Holy Chef 聖伙餐廚",
+            eng:'holychef',
+            location:'大安區',
+            landing:'https://forms.gle/Q8VYj3MJ38tFaYS49',
+            fill:false,
+        },{
+            name:"Hungry Bar好餓",
+            eng:'hungrybar',
+            location:'松山區',
+            landing:'https://forms.gle/77GgwuSJo4bg7k2L8',
+            fill:false,
+        },{
+            name:"uMeal 優膳糧",
+            eng:'umeal',
+            location:'信義區',
+            landing:'https://forms.gle/5Qg1YAX6wUWGqntC8',
+            fill:false,
+        },{
+            name:"稻穗輕食",
+            eng:'daosuilightmeal',
+            location:'中山區',
+            landing:'https://forms.gle/jTXQgxXdFFGoS6Zb9',
             fill:false,
         }
     ];

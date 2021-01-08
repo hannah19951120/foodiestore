@@ -241,6 +241,18 @@ $(document).ready(function() {
             location:'中山區',
             landing:'https://forms.gle/jTXQgxXdFFGoS6Zb9',
             fill:false,
+        },{
+            name:"亞里士餐廳",
+            eng:'alicesteakhouse',
+            location:'中山區',
+            landing:'https://forms.gle/KiP5xc6aeyuzvoyG9',
+            fill:false,
+        },{
+            name:"Q POT 蛋蛋獨享鍋 ",
+            eng:'qpot',
+            location:'松山區',
+            landing:'https://forms.gle/q4Qq3L8HD2t9iEPBA',
+            fill:false,
         }
     ];
 

@@ -150,7 +150,7 @@ $(document).ready(function() {
             eng:'leming',
             location:'中山區',
             landing:'https://forms.gle/wEqDHyPg2vqLcF2aA',
-            fill:false,
+            fill:true,
         },{
             name:"Le Ming麵食精釀餐酒館—林口店",
             eng:'leming',
